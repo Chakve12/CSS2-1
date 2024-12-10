@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#Navigation {
+    width: 1140px;
+    display: inline-block;
+}
+
+
+
+#image {
+    display: inline-block;
+    padding: 12px 80px;
+    vertical-align: middle;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    
+}
+
+#navb  {
+    display: inline-block;
+}
+
+#navb li {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Inter;
+    vertical-align: middle;
+}
+
+.list-item {
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #323232;
+}
+
+#contact {
+    border: 1px solid #AC00FF;
+    background-color: #E9D7FE;
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+
+#buttWrap {
+    display: inline-block;
+    width: 400px;
+    text-align: end
+}
+
+#Title {
+    color: #323232;
+    font-family: Alfa Slab One;
+    font-size: 64px;
+    line-height: 74px;
+    font-weight: 400;
+    padding-top: 76px;
+}
+
+#Title span {
+    display: block;
+}
+
+#Description {
+    color: #323232;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#Description span {
+    display: block;
+}
+
+#JoinnowWRAP {
+    display: inline-block;
+    color: white;
+    background-color: #5C3BAE;
+    border-radius: 8px;
+    padding: 16px 24px;
+    border: none;
+    width: 204px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+#Box1 {
+    padding-left: 214px;
+}
+
+#PlayLoading {
+    display: inline-block;
+    vertical-align: middle;   
+}
+
+#WVH {
+    vertical-align: middle;
+    display: inline-block;
+    color: #4D3491;
+    text-decoration: underline;
+}
+
+#WVHWRAP {
+    all: unset;
+}
+
+#Cards {
+    text-align: end;
+}
+
